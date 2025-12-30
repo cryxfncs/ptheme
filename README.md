@@ -1,7 +1,7 @@
 # pstatistics
 A Blueprint extension witch tells your statistics over all servers. It tells you RAM, Storage, CPU Usage and much more.
 
-<img width="1920" height="1080" alt="PTheme_banner" src="https://github.com/user-attachments/assets/ea320c89-f09a-4deb-b520-afdde88111d1" />
+<img width="1920" height="1080" alt="PTheme_banner_2" src="https://github.com/user-attachments/assets/249f0157-ca8c-4636-9cef-3f248eb0235f" />
 
 
 ## Installation
