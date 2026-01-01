@@ -1,5 +1,11 @@
-# pstatistics
-A Blueprint extension witch tells your statistics over all servers. It tells you RAM, Storage, CPU Usage and much more.
+# Download on sourcexchange
+
+## https://www.sourcexchange.net/products/
+
+
+
+# ptheme
+Sleek red-and-black visual theme designed specifically for the Pterodactyl panel.
 
 <img width="1920" height="1080" alt="PTheme_banner_2" src="https://github.com/user-attachments/assets/249f0157-ca8c-4636-9cef-3f248eb0235f" />
 
